@@ -1,6 +1,6 @@
 
 function test(){
-    console.log('test hello world');
+    console.log('weineel test hello world');
 }
 
 test();
